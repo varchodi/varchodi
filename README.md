@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @varchodi
-- 👀 I’m interested in software development 
+- 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning machine learning  and data science 
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ...
